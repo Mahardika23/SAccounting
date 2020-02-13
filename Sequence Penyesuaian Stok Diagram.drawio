@@ -1,23 +1,26 @@
-<mxfile host="www.draw.io" modified="2020-02-13T07:14:24.764Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="0POnIu1afuzSgnrYU9df" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T07:23:17.782Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.87 Safari/537.36" etag="NTbXBjSLQOTYVane2pCq" version="12.6.8" type="github">
   <diagram id="SEpVK1sIPcU3dHqcUe8w" name="Page-1">
-    <mxGraphModel dx="1432" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2387" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-36" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="542.08" y="510" width="1247.92" height="480" as="geometry"/>
+        </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-69" value="redirect back" style="html=1;verticalAlign=bottom;endArrow=block;entryX=1.4;entryY=0.527;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="679.5" y="759.9989999999999" as="sourcePoint"/>
-            <mxPoint x="514" y="759.9989999999999" as="targetPoint"/>
+            <mxPoint x="1081.58" y="779.9989999999999" as="sourcePoint"/>
+            <mxPoint x="916.0799999999999" y="779.9989999999999" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-18" value="menampilkan history penyesuaian stok" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0.186;exitY=0.27;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="501.8599999999999" y="250.00000000000003" as="sourcePoint"/>
-            <mxPoint x="277" y="250.00000000000003" as="targetPoint"/>
+            <mxPoint x="903.9399999999998" y="270" as="sourcePoint"/>
+            <mxPoint x="679.0799999999999" y="270" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-4" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=70;" vertex="1" parent="1">
-          <mxGeometry x="460" y="70" width="90" height="1210" as="geometry"/>
+          <mxGeometry x="862.0799999999999" y="90" width="90" height="1210" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-14" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Halaman Penyesuaian stok&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-4">
           <mxGeometry x="34" y="26" width="40" height="20" as="geometry"/>
@@ -26,11 +29,11 @@
           <mxGeometry x="40" y="103" width="10" height="827" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-5" value="" style="shape=umlLifeline;participant=umlBoundary;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=70;" vertex="1" parent="1">
-          <mxGeometry x="640" y="70" width="80" height="870" as="geometry"/>
+          <mxGeometry x="1042.08" y="90" width="80" height="870" as="geometry"/>
         </mxCell>
-        <mxCell id="bP-89cqmyBEEF8uvNgYl-30" value="validasi user &lt;br&gt;input" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.091;exitY=0.224;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="bP-89cqmyBEEF8uvNgYl-29" parent="bP-89cqmyBEEF8uvNgYl-5" source="bP-89cqmyBEEF8uvNgYl-23">
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-30" value="validasi user &lt;br&gt;input" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="bP-89cqmyBEEF8uvNgYl-29" parent="bP-89cqmyBEEF8uvNgYl-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="325" as="sourcePoint"/>
+            <mxPoint x="46" y="341" as="sourcePoint"/>
             <Array as="points">
               <mxPoint x="90" y="341"/>
               <mxPoint x="90" y="364"/>
@@ -47,43 +50,43 @@
           <mxGeometry x="28" y="27" width="40" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-6" value="tabel transaksi penyesuaian stok" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="70" width="120" height="900" as="geometry"/>
+          <mxGeometry x="1542.08" y="90" width="120" height="900" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-41" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-6">
           <mxGeometry x="55" y="400" width="10" height="130" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-16" value="Akses halaman penyesuaian stok" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.109;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="277" y="210.0030000000001" as="sourcePoint"/>
-            <mxPoint x="500.9999999999998" y="210.0030000000001" as="targetPoint"/>
+            <mxPoint x="679.0799999999999" y="230.0030000000001" as="sourcePoint"/>
+            <mxPoint x="903.0799999999997" y="230.0030000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-24" value="menampilkan form penyesuaian stok dengan&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="673" y="350" as="sourcePoint"/>
-            <mxPoint x="277" y="350" as="targetPoint"/>
+            <mxPoint x="1075.08" y="370" as="sourcePoint"/>
+            <mxPoint x="679.0799999999999" y="370" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-25" value="input data barang, gudang, pertambahan atau pengurangan stok&lt;br&gt;, akun , harga per unit, dan deskripsi" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="277" y="399.9999999999999" as="sourcePoint"/>
-            <mxPoint x="675" y="400" as="targetPoint"/>
+            <mxPoint x="679.0799999999999" y="419.9999999999999" as="sourcePoint"/>
+            <mxPoint x="1077.08" y="420" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-27" value="redirect form penyesuaian stok" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="510" y="310" as="sourcePoint"/>
-            <mxPoint x="675" y="310" as="targetPoint"/>
+            <mxPoint x="912.0799999999999" y="330" as="sourcePoint"/>
+            <mxPoint x="1077.08" y="330" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-31" value="&lt;b&gt;[input invalid]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="880" width="80" height="50" as="geometry"/>
+          <mxGeometry x="562.0799999999999" y="900" width="80" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-32" value="&lt;b&gt;[ input valid]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="550" width="80" height="60" as="geometry"/>
+          <mxGeometry x="562.0799999999999" y="570" width="80" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="70" width="90" height="950" as="geometry"/>
+          <mxGeometry x="632.0799999999999" y="90" width="90" height="950" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-35">
           <mxGeometry x="30" width="30" height="73.42105263157892" as="geometry"/>
@@ -114,36 +117,36 @@
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-39" value="" style="endArrow=none;dashed=1;html=1;entryX=0.998;entryY=0.806;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.002;exitY=0.71;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="137.92000000000007" y="862.4799999999999" as="sourcePoint"/>
-            <mxPoint x="1227.8200000000002" y="860.0000000000001" as="targetPoint"/>
+            <mxPoint x="540" y="882.4799999999999" as="sourcePoint"/>
+            <mxPoint x="1629.9" y="880.0000000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-48" value="request hpp barang" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="844.5" y="600.0000000000001" as="sourcePoint"/>
-            <mxPoint x="1005" y="600" as="targetPoint"/>
+            <mxPoint x="1246.58" y="620.0000000000001" as="sourcePoint"/>
+            <mxPoint x="1407.08" y="620" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-49" value="tabel&amp;nbsp; barang" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
-          <mxGeometry x="950" y="70" width="120" height="900" as="geometry"/>
+          <mxGeometry x="1352.08" y="90" width="120" height="900" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-50" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-49">
           <mxGeometry x="55" y="400" width="10" height="420" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-40" value="send request&amp;nbsp;&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.443;entryY=0.587;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="685" y="520" as="sourcePoint"/>
-            <mxPoint x="841.0100000000002" y="520" as="targetPoint"/>
+            <mxPoint x="1087.08" y="540" as="sourcePoint"/>
+            <mxPoint x="1243.0900000000001" y="540" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-51" value="data hpp barang" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.158;exitY=0.572;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1003.4200000000001" y="630.0000000000001" as="sourcePoint"/>
-            <mxPoint x="850" y="630.0000000000001" as="targetPoint"/>
+            <mxPoint x="1405.5" y="650.0000000000001" as="sourcePoint"/>
+            <mxPoint x="1252.08" y="650.0000000000001" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-53" value="" style="shape=umlLifeline;participant=umlControl;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;labelBackgroundColor=#ffffff;outlineConnect=0;size=80;" vertex="1" parent="1">
-          <mxGeometry x="810" y="60" width="70" height="910" as="geometry"/>
+          <mxGeometry x="1212.08" y="80" width="70" height="910" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-54" value="&lt;font style=&quot;font-size: 11px&quot;&gt;controller penyesuaian stok&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-53">
           <mxGeometry x="15" y="35" width="40" height="20" as="geometry"/>
@@ -156,77 +159,77 @@
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-52" value="update hpp barang" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="850" y="706" as="sourcePoint"/>
-            <mxPoint x="1005" y="706.5600000000002" as="targetPoint"/>
+            <mxPoint x="1252.08" y="726" as="sourcePoint"/>
+            <mxPoint x="1407.08" y="726.5600000000002" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-60" value="insert query" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="850" y="531.71" as="sourcePoint"/>
-            <mxPoint x="1199.5" y="531.71" as="targetPoint"/>
+            <mxPoint x="1252.08" y="551.71" as="sourcePoint"/>
+            <mxPoint x="1601.58" y="551.71" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-43" value="insert successful" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=-0.019;exitY=0.346;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1194.7800000000004" y="574.2899999999998" as="sourcePoint"/>
-            <mxPoint x="849.97" y="574.8199999999999" as="targetPoint"/>
+            <mxPoint x="1596.8600000000004" y="594.2899999999998" as="sourcePoint"/>
+            <mxPoint x="1252.05" y="594.8199999999999" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-66" value="kalkulasi hpp baru &lt;br&gt;unit barang" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.003;entryY=0.35;exitX=0.967;exitY=0.562;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="bP-89cqmyBEEF8uvNgYl-65" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="849.6700000000001" y="651.0799999999999" as="sourcePoint"/>
+            <mxPoint x="1251.75" y="671.0799999999999" as="sourcePoint"/>
             <Array as="points">
-              <mxPoint x="850" y="650"/>
-              <mxPoint x="880" y="650"/>
-              <mxPoint x="880" y="670"/>
+              <mxPoint x="1252.08" y="670"/>
+              <mxPoint x="1282.08" y="670"/>
+              <mxPoint x="1282.08" y="690"/>
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-67" value="update berhasil" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1004.97" y="730.5600000000002" as="sourcePoint"/>
-            <mxPoint x="849.97" y="730" as="targetPoint"/>
+            <mxPoint x="1407.05" y="750.5600000000002" as="sourcePoint"/>
+            <mxPoint x="1252.05" y="750" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-68" value="data berhasil ditambahkan" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="840" y="743" as="sourcePoint"/>
-            <mxPoint x="690.0000000000002" y="743" as="targetPoint"/>
+            <mxPoint x="1242.08" y="763" as="sourcePoint"/>
+            <mxPoint x="1092.0800000000002" y="763" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-70" value="menampilkan halaman penyesuaian stok&lt;br&gt;dan notifikasi data berhasil ditambahkan" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="bP-89cqmyBEEF8uvNgYl-19">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="500" y="771" as="sourcePoint"/>
-            <mxPoint x="340" y="770.663" as="targetPoint"/>
+            <mxPoint x="902.0799999999999" y="791" as="sourcePoint"/>
+            <mxPoint x="742.0799999999999" y="790.663" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-74" value="error message" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" edge="1" parent="1" source="bP-89cqmyBEEF8uvNgYl-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1003.4200000000001" y="800" as="sourcePoint"/>
-            <mxPoint x="850" y="800" as="targetPoint"/>
+            <mxPoint x="1405.5" y="820" as="sourcePoint"/>
+            <mxPoint x="1252.08" y="820" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-75" value="send error message" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0.752;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="840" y="820" as="sourcePoint"/>
-            <mxPoint x="690" y="820" as="targetPoint"/>
+            <mxPoint x="1242.08" y="840" as="sourcePoint"/>
+            <mxPoint x="1092.08" y="840" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-59" value="show error message" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="670" y="900" as="sourcePoint"/>
-            <mxPoint x="280" y="900" as="targetPoint"/>
+            <mxPoint x="1072.08" y="920" as="sourcePoint"/>
+            <mxPoint x="682.0799999999999" y="920" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-76" value="menampilkan halaman penyesuaian stok&lt;br&gt;dan error message" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" target="bP-89cqmyBEEF8uvNgYl-19">
           <mxGeometry x="0.0758" width="80" relative="1" as="geometry">
-            <mxPoint x="673" y="830" as="sourcePoint"/>
-            <mxPoint x="450" y="830" as="targetPoint"/>
+            <mxPoint x="1075.08" y="850" as="sourcePoint"/>
+            <mxPoint x="852.0799999999999" y="850" as="targetPoint"/>
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-73" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="250" y="550" width="970" height="289.9985714356087" as="geometry"/>
+          <mxGeometry x="652.0799999999999" y="570" width="970" height="289.9985714356087" as="geometry"/>
         </mxCell>
         <mxCell id="bP-89cqmyBEEF8uvNgYl-63" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-73">
           <mxGeometry width="970" height="289.99857143560865" as="geometry"/>
@@ -243,8 +246,17 @@
         <mxCell id="bP-89cqmyBEEF8uvNgYl-46" value="&lt;b&gt;[query unsuccessful]&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-73">
           <mxGeometry x="20" y="220" width="150" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="bP-89cqmyBEEF8uvNgYl-36" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="490" width="1090" height="480" as="geometry"/>
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-89" value="catat jurnal transaksi&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="bP-89cqmyBEEF8uvNgYl-73" target="bP-89cqmyBEEF8uvNgYl-84">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="767.9200000000001" y="170" as="sourcePoint"/>
+            <mxPoint x="847.9200000000001" y="170" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-83" value="Akuntansi" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;size=60;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="90" width="120" height="990" as="geometry"/>
+        </mxCell>
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-84" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="bP-89cqmyBEEF8uvNgYl-83">
+          <mxGeometry x="55" y="610" width="10" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
