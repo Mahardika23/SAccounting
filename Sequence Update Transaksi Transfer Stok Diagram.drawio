@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2020-02-18T14:42:25.384Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="c1qOJVyu0sP7DKXmLru7" version="12.7.1" type="github">
+<mxfile host="www.draw.io" modified="2020-02-18T16:26:30.582Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.106 Safari/537.36" etag="fFTxLMarUtliTGsDBBGO" version="12.7.1" type="github">
   <diagram id="SEpVK1sIPcU3dHqcUe8w" name="Page-1">
-    <mxGraphModel dx="1185" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,7 +125,7 @@
             <mxPoint x="903.0799999999997" y="230.0030000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bP-89cqmyBEEF8uvNgYl-24" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Data Transaksi Transfer Stok&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" edge="1" source="bP-89cqmyBEEF8uvNgYl-6">
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-24" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Data Transaksi Transfer Stok&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;" parent="1" source="bP-89cqmyBEEF8uvNgYl-6" edge="1">
           <mxGeometry x="0.2609" y="10" relative="1" as="geometry">
             <mxPoint x="1075.08" y="370" as="sourcePoint" />
             <mxPoint x="1090" y="369" as="targetPoint" />
@@ -245,7 +245,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bP-89cqmyBEEF8uvNgYl-59" value="show error message" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1" source="bP-89cqmyBEEF8uvNgYl-23">
+        <mxCell id="bP-89cqmyBEEF8uvNgYl-59" value="show error message" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" source="bP-89cqmyBEEF8uvNgYl-23" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1072.08" y="940" as="sourcePoint" />
             <mxPoint x="682.0799999999999" y="940" as="targetPoint" />
@@ -263,13 +263,13 @@
             <mxPoint x="902.0799999999999" y="310.0000131578947" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CCa7_pafJhqoYFYrzzIa-1" value="Request data transaksi terpilih" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1" target="bP-89cqmyBEEF8uvNgYl-41">
+        <mxCell id="CCa7_pafJhqoYFYrzzIa-1" value="Request data transaksi terpilih" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" target="bP-89cqmyBEEF8uvNgYl-41" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1090" y="340" as="sourcePoint" />
             <mxPoint x="1600" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bmk1fbjSc-dwJCuuFTvc-5" value="&lt;span style=&quot;font-size: 10px&quot;&gt;menampilkan form&amp;nbsp; edit&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal ; background-color: rgb(248 , 249 , 250)&quot;&gt;Transfer Stok&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+        <mxCell id="Bmk1fbjSc-dwJCuuFTvc-5" value="&lt;span style=&quot;font-size: 10px&quot;&gt;menampilkan form&amp;nbsp; edit&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px ; white-space: normal ; background-color: rgb(248 , 249 , 250)&quot;&gt;Transfer Stok&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1078" y="380" as="sourcePoint" />
             <mxPoint x="679.9999999999999" y="380" as="targetPoint" />
